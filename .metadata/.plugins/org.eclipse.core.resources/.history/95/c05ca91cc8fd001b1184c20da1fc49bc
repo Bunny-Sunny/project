@@ -1,0 +1,7 @@
+package com.app.dao.impl;
+
+import com.app.dao.PlayerDAO;
+
+public class playerDAOImpl implements PlayerDAO {
+
+}
